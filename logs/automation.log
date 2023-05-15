@@ -82,3 +82,18 @@
 18:46:06.836 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
 18:46:06.842 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
 18:46:07.377 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+20:15:20.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+20:15:20.720 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+20:15:21.383 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+20:15:21.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:15:22.244 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+20:16:08.525 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+20:16:08.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+20:16:09.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+20:16:09.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:16:10.387 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+20:16:43.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+20:16:43.836 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+20:16:44.579 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+20:16:44.592 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:16:45.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
